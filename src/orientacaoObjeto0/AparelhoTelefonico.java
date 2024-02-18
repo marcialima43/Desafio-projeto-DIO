@@ -1,4 +1,4 @@
-package orientacaoObjeto;
+package orientacaoObjeto0;
 
 public class AparelhoTelefonico {
 	public void ligar() {
